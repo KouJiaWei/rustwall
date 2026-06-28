@@ -19,4 +19,4 @@
                            OutboundManager
                           /      |       \
                          /       |        \
-                    Direct   Shadowsocks  Vless                 
+                    Direct   Shadowsocks  Vless
