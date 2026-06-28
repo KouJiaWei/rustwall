@@ -1,0 +1,7 @@
+listen: "127.0.0.1:9001"
+
+log_level: "info"
+
+rules:
+  - "DOMAIN-SUFFIX,baidu.com,DIRECT"
+  - "DOMAIN-SUFFIX,qq.com,DIRECT"
